@@ -1,0 +1,17 @@
+#div{
+	color:#FFFFFF;
+	background-color:#2fa7b7;
+	margin:0px;
+	padding:20px;
+	border-radius:10px;
+}
+
+#modalExemplo{
+	color: black;
+    background-color: none;
+    height: none;
+    min-height: none;
+    margin: none;
+    padding: 20px;
+    border-radius: 10px;
+}

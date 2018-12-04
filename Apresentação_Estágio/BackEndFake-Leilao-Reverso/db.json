@@ -1,0 +1,108 @@
+{
+	"quemEstaLogado":[
+		{
+			"tipo":"cliente"
+		}
+	],
+	"usersLogin":[
+		{
+			"tipo":"fornecedor",
+			"email":"marcus@gmail.com",
+			"senha":"senha#321!"
+		}
+	],
+  "listaDeFaltas": [
+    {
+      "id": 1,
+      "nome": "Diclofenac",
+      "categoria": "Antibiótico",
+      "qtdSugCompra": "21",
+      "precoCustoMedioProd": "13.50"
+    },
+    {
+      "id": 2,
+      "nome": "Azitromicina",
+      "categoria": "Antibiótico",
+      "qtdSugCompra": "15",
+      "precoCustoMedioProd": "16.99"
+    },
+    {
+      "id": 3,
+      "nome": "Amoxicilina",
+      "categoria": "Antibiótico",
+      "qtdSugCompra": "30",
+      "precoCustoMedioProd": "10.99"
+    },
+    {
+      "id": 4,
+      "nome": "Aztreonam",
+      "categoria": "Antibiótico",
+      "qtdSugCompra": "15",
+      "precoCustoMedioProd": "12.99"
+    },
+    {
+      "id": 5,
+      "nome": "Bacitracina",
+      "categoria": "Antibiótico",
+      "qtdSugCompra": "15",
+      "precoCustoMedioProd": "19.99"
+    },
+    {
+      "id": 6,
+      "nome": "Cefuroxima",
+      "categoria": "Antibiótico",
+      "qtdSugCompra": "15",
+      "precoCustoMedioProd": "22.99"
+    }
+  ],
+  "listaDePropostas": [
+    {
+      "id": 1,
+      "nomeFornecedor": "João Pedro",
+      "valor": "5.200,00",
+      "empresa": "Mundo Saúde",
+      "cnpj": "03.899.999/0844-00",
+      "email": "fulano@gmail.com"
+    },
+    {
+      "id": 2,
+      "nomeFornecedor": "Paulo Teles",
+      "valor": "4.800,00",
+      "empresa": "Saúde&CIA",
+      "cnpj": "03.459.866/0844-00",
+      "email": "fulano@gmail.com"
+    },
+    {
+      "id": 3,
+      "nomeFornecedor": "Jose Gadriel",
+      "valor": "6.280,00",
+      "empresa": "MundoFarma",
+      "cnpj": "03.229.989/0822-00",
+      "email": "fulano@gmail.com"
+    },
+    {
+      "id": 4,
+      "nomeFornecedor": "Pedro Stones",
+      "valor": "4.500,00",
+      "empresa": "Genéricos&Cia",
+      "cnpj": "03.333.949/0222-00",
+      "email": "fulano@gmail.com"
+    },
+    {
+      "id": 5,
+      "nomeFornecedor": "Rafael Santos",
+      "valor": "7.600,00",
+      "empresa": "Mundo Saúde",
+      "cnpj": "03.807.933/0904-00",
+      "email": "fulano@gmail.com"
+    },
+    {
+      "nomeFornecedor": "Fulano",
+      "valor": "9000",
+      "empresa": "FULANOCIA",
+      "cnpj": "03.229.989/0822-00",
+      "email": "fulano@gmail.com",
+      "id": 6
+    }
+  ]
+}
